@@ -14,7 +14,7 @@ namespace LaundryBot
 {
     public class Program
     {
-        private static readonly string BotToken = "8299602360:AAEzFWzEhAGeAmHIcXgRUYHhLVrENZt_hsM"; 
+        private static readonly string BotToken = ""; 
         
         private static readonly ITelegramBotClient Bot = new TelegramBotClient(BotToken);
         private static readonly MachineScraper Scraper = new MachineScraper();
