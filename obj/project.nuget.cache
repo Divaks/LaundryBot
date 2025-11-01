@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KEr/nkVIvY=",
+  "success": true,
+  "projectFilePath": "/Users/dmytro/RiderProjects/LaundryBot/LaundryBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmytro/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/dmytro/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
